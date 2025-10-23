@@ -1,0 +1,17 @@
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  margin-bottom: 24px;
+
+  &__icon {
+    width: 24px;
+    height: 24px;
+  }
+
+  &__text {
+    font-size: 16px;
+    font-weight: 700;
+
+  }
+}

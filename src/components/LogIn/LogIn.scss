@@ -1,0 +1,18 @@
+.login {
+  &__title {
+    margin-bottom: 24px;
+  }
+
+  .error-message--general {
+    top: 10px;
+    left: 50% !important;
+    transform: translateX(-50%);
+  }
+
+  .form {
+    .input {
+      padding: 8px 12px 8px 24px;
+      width: 100%;
+    }
+  }
+}

@@ -1,0 +1,1 @@
+export { GetNew } from './GetNew';

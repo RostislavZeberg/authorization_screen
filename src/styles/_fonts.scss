@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Heading";
+  src: local("Heading-Bold"), local("Heading Bold"), local("HeadingBold"),
+    url("../assets/fonts/Heading-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Heading";
+  src: local("Heading-Regular"), local("Heading Regular"), local("HeadingRegular"),
+    url("../assets/fonts/Heading-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}

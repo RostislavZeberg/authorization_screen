@@ -1,0 +1,14 @@
+  .module__arrow {
+    position: absolute;
+    top: 22px;
+    left: 20px;
+    width: 39px;
+    height: 37px;
+    cursor: pointer;
+    transition: border-color .3s ease-in-out;
+
+    &:hover {
+      transform: translateX(-2px);
+      color: rgba(22, 119, 255, 1);
+    }
+  }
